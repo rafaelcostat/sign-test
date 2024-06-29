@@ -2,7 +2,7 @@
 
 Run the project:
 
-npm install
-npm run dev
+npm install\
+npm run dev\
 json-server --watch db.json --port 5001
 
