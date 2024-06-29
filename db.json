@@ -1,3 +1,38 @@
 {
-  "activities": []
+  "activities": [
+    {
+      "id": "8570",
+      "title": "Task 4",
+      "type": "Mobile",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit venenatis pharetra. Nunc imperdiet enim dolor, in iaculis erat egestas ut. ",
+      "startDate": "2024-06-28T03:00:00.000Z",
+      "dueDate": "2024-06-26T03:00:00.000Z",
+      "endDate": "2024-07-02T03:00:00.000Z",
+      "status": "open",
+      "uid": "1",
+      "createdAt": "2024-06-29T22:53:00.463Z"
+    },
+    {
+      "id": "80ca",
+      "title": "Task 5",
+      "type": "Responsivo",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit venenatis pharetra. Nunc imperdiet enim dolor, in iaculis erat egestas ut. ",
+      "startDate": "2024-07-01T03:00:00.000Z",
+      "dueDate": "2024-07-03T03:00:00.000Z",
+      "status": "open",
+      "uid":"1",
+      "createdAt": "2024-06-29T23:00:51.362Z"
+    },
+    {
+      "title": "Task 6",
+      "type": "Review",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit venenatis pharetra. Nunc imperdiet enim dolor, in iaculis erat egestas ut. ",
+      "startDate": "2024-08-13T03:00:00.000Z",
+      "dueDate": "2024-08-01T03:00:00.000Z",
+      "endDate": "2024-08-14T03:00:00.000Z",
+      "status": "completed",
+      "uid": "2",
+      "id": "ebe9"
+    }
+  ]
 }

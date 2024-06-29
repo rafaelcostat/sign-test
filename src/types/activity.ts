@@ -1,11 +1,12 @@
 export interface Activity {
-  id: number
-  uid: number
+  id: string
+  uid: string
   title: string
   type: string
   description?: string
-  startDate: string
-  dueDate: string
-  endDate?: string
+  startDate: Date
+  dueDate: Date
+  endDate?: Date
   status: 'Open' | 'Completed'
+  createdAt: Date
 }

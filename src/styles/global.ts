@@ -8,10 +8,10 @@ export const GlobalStyle = createGlobalStyle`
 
     --blue-light: #6933FF;
 
-    --text-title: #363F5F;
+    --text-title: #fff;
     --text-body: #969CB3;
 
-    --background: #F0F2F5;
+    --background: #202024;
     --shape: #FFFFFF;
   }
 
@@ -44,6 +44,7 @@ export const GlobalStyle = createGlobalStyle`
 
   h1, h2, h3, h4, h5, h6, strong {
     font-weight: 600;
+    color: var(--text-title);
   }
 
   button {
@@ -53,5 +54,8 @@ export const GlobalStyle = createGlobalStyle`
   [disabled] {
     opacity: 0.6;
     cursor: not-allowed;
+  }
+  .react-datepicker-wrapper {
+    width: 100%;
   }
 `
