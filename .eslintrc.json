@@ -1,0 +1,4 @@
+{
+  "extends": "@rafaelcostat/eslint-config/react"
+}
+  
